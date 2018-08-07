@@ -1,5 +1,5 @@
 # wifilinux
-Wifi No Searching Problem (Solved)
+Wifi No Searching Problem On Linux (Solved)
 
 1. Open terminal and get root in terminal
 2. Write in terminal --> nano /etc/NetworkManager/NetworkManager.conf
